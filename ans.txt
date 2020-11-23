@@ -1,0 +1,6 @@
+question 4 answer:
+cat to_delete.txt,tr'''\n',xargs-l {} rm delete/{}.txt
+
+question 8 answer:
+grep -r "are" * | sort -r
+
